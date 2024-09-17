@@ -1,2 +1,2 @@
-# 911
-A project to analyse 911 calls
+# Project Overview
+This project involves analyzing 911 emergency call data to uncover patterns, trends, and insights. The primary goal is to understand the types of emergency calls, the distribution of calls over time, and any other significant patterns that may help in optimizing emergency response services. The dataset includes various attributes such as the time and location of the calls, the nature of emergencies, and other relevant metadata.
